@@ -1,0 +1,2 @@
+ori_image_path,target_image_path,output_path,output_file_name
+eg_input_data\ori3.png,eg_input_data\target.png,output,transformer_test.png
